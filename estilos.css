@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.Formulario
+{
+    font-family: 'Passions Conflict', cursive;
+   text-align: center;
+   background-color: cornflowerblue;
+   height: 50vh;
+   font-size: 50px;
+}
+.lottie
+{
+    background-color: darkgray;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
